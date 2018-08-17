@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Aug 11 20:28:36 2018
-
-@author: root1
 """
 
 import cv2
