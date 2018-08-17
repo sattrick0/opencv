@@ -1,2 +1,2 @@
 # opencv
-[haarcascade from opencv](https://github.com/opencv/opencv)
+haarcascade from [opencv](https://github.com/opencv/opencv)
